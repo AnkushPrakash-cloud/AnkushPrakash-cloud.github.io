@@ -1,7 +1,7 @@
 Hello there, I hope all is well with you 
 
 My name is Ankush Prakash. I have created my portfolio using the GitHub pages which are designed to host your personal or project pages from a GitHub repository. 
-Kindly check my portfolio and don't hesitate to contact me for networking and opportunities.
+Kindly check my portfolio and don't hesitate to contact me for networking and job opportunities.
   
 Contact me:-  ankush.prakash.workemail@gmail.com 
 or
